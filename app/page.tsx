@@ -1,7 +1,6 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Github, Linkedin, Code } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 import profile from "../public/profile.jpg";
