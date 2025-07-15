@@ -141,7 +141,7 @@ export default function Home() {
 
       <section
         id="contact"
-        className="mx-auto w-full max-w-2xl space-y-4 items-center"
+        className="mx-auto w-full max-w-2xl space-y-4 items-center h-40"
       >
         <BlurFade className="text-center mb-4" delay={0.04 * 6}>
           <Badge className="text-md">Contact</Badge>
@@ -151,7 +151,7 @@ export default function Home() {
         </BlurFade>
         <BlurFade delay={0.04 * 7}>
           <p className="text-lg text-muted-foreground text-center">
-            You can react out to me on{" "}
+            You can reach out to me on{" "}
             <Link
               href="https://x.com/AnujjGupta07"
               className="text-blue-600"

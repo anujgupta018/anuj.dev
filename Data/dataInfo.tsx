@@ -28,6 +28,7 @@ export const data = {
     "Express",
     "Node JS",
     "JavaScript",
+    "MongoDB",
   ],
   home: [
     {
